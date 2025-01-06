@@ -1,5 +1,5 @@
 # Amazon-Website
-I am creating a website in HTML and CSS 
+I am creating a website in HTML and CSS. 
 
 **Amazon Clone** 
 <br>
@@ -8,7 +8,7 @@ This project is a clone of the popular e-commerce website Amazon, created using 
 
 **Overview**
 <br>
-The Amazon Clone project aims to recreate the look and feel of Amazon’s main pages, including the homepage, product listings, and product detail pages. This project focuses solely on the frontend design and does not include any backend functionality or interactive features.
+The Amazon Clone project aims to recreate the look and feel of Amazon’s main pages, including the homepage, product listings. This project focuses solely on the frontend design and does not include any backend functionality or interactive features.
 
 **Technologies Used**
 <br>
